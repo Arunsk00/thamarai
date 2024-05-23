@@ -9,7 +9,7 @@ public class App {
 			   rev=rev+s2;
 			
 		}
-		System.out.println(rev);
+		
 		
 		}
 	}
