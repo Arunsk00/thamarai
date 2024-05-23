@@ -5,8 +5,9 @@ public class App {
 		String s1="Atossyntel";
 		String rev="";
 		for (int i = s1.length()-1; i >=0; i--) {
-			   char s2 = s1.charAt(i);
-			   rev=rev+s2;
+			System.out.println(i);
+			System.out.println(i+1);
+			   rev=rev+s1;
 			
 		}
 		
